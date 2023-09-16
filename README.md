@@ -34,7 +34,7 @@ The Windows Form Application - Social Media Platform is a full-fledged desktop a
   LINQ simplifies data manipulation, making it easier to retrieve, filter, and transform data.
 
 ##Screenshot
-![Screenshot](Images.png)
+![Images](1.png)
 
 
 
