@@ -4,7 +4,7 @@ The Windows Form Application - Social Media Platform is a full-fledged desktop a
 
 
 ## Key Features
-User Registration and Login:
+* User Registration and Login:
 
 Users can register by providing their username, email, and password.
 Registered users can log in using their credentials.
