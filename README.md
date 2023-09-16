@@ -33,4 +33,8 @@ The Windows Form Application - Social Media Platform is a full-fledged desktop a
   LINQ (Language Integrated Query) is used to query the database and manipulate data.
   LINQ simplifies data manipulation, making it easier to retrieve, filter, and transform data.
 
+##Screenshot
+![Images](1.png)
+
+
 
